@@ -1,0 +1,26 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "<:java:1282401625109037059> Java Edition",
+      "description": "**IP:** `mc.bteitalia.it`\n**Versione:** `1.21.10`\n\nUnisciti al nostro server con Minecraft Java Edition! E segui le Istruzioni qui sotto per diventare un **Costruttore** e contribuire al Progetto.",
+      "color": 16645629
+    },
+    {
+      "title": "<:Bedrock:1282401666317946911> Bedrock Editon",
+      "description": "Ad ora il nostro server no supporta Minecraft Bedrock Edition. In attesa di nuovi sviluppi a lato tecnico, ci scusiamo ma non è possibile costruire o vistare con questa versione",
+      "color": 16645629
+    },
+    {
+      "title": "How to apply?",
+      "description": "BTE Italia usa un sistema di Ranks per garantire la qualità delle build, ed aiutare i builder a cresecere nel loro percorso di apprendimento. Per iniziare ti basterà completare un semplice form di applicazione e costruire. Una volta completato potrai far valutare le tue build",
+      "color": 16645629
+    },
+    {
+      "title": "<:Tutorial:1458436115186061384> Tutorials",
+      "description": "<:java:1282401625109037059> __In Game__\n\n> I tutorial In gioco sono attualmente non disponibili, nuove informazioni seguiranno a breve\n\n<:discord:1058339132872593480> __Discord__\n\n> Per imparare le basi necessarie a costruire dai un occhio a <#1458133972705083432>",
+      "color": 16645629
+    }
+  ],
+  "attachments": []
+}
