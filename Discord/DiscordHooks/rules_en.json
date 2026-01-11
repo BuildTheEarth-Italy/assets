@@ -1,0 +1,29 @@
+{
+    "flags": 32768,
+    "components": [ 
+        {
+            "type": 17,
+            "accent_color": 16645629,
+            "components": [
+                {  
+                    "type": 12,
+                    "items": [
+                        {
+                            "media": {"url": "https://media.discordapp.net/attachments/1398712662916989019/1458562956886282441/Rules2.png?ex=6964b55b&is=696363db&hm=f75e27d48e1cd78f81a162ac32aed8369829fd0f8252a3fb405287f348531301&=&format=webp&quality=lossless&width=1513&height=400"}
+                        }
+                    ]
+                }   
+            ]
+        },
+        {
+            "type": 17,
+            "accent_color": 16645629,
+            "components": [
+                {
+                    "type": 10,
+                    "content": "1. Respect and Inclusivity\nAll forms of prejudice, harassment, or general toxicity are prohibited. Treat everyone with respect and kindness. Accusing others of breaking rules in public chats is not allowed—report concerns to staff privately.\n\n2. Content and Behavior Standards\nNSFW content, criminal behavior, or discussions about illegal activities are strictly prohibited. This includes profile pictures, usernames, and any shared media.\n\n3. Channel and Server Purpose\nUse channels only for their intended purpose. Unsolicited advertising, spam, or off-topic discussions are not allowed.\n\n4. Compliance with Platform Rules\nFollow Discord’s Terms of Service, Developer ToS, and Community Guidelines at all times. Exploiting loopholes or bypassing rules is prohibited.\n\n5. Prohibited Topics\nPolitics and other heavy or controversial topics are not allowed. Keep discussions focused on Minecraft and server-related activities."
+                }
+            ]
+        }
+    ]
+}

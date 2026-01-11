@@ -1,0 +1,64 @@
+{   "flags": 32768,
+    "components": [
+        {"type": 17,
+        "accent_color": 16645629,
+        "components": [
+            {"type": 10,
+            "content": "## <:java:1282401625109037059> Java Edition \n**IP:** `mc.bteitalia.it`\n**Versione:** `1.21.10`\n\nUnisciti al nostro server con Minecraft Java Edition! E segui le Istruzioni qui sotto per diventare un **Costruttore** e contribuire al Progetto."
+        }
+        ]
+        },
+        {"type": 17,
+        "accent_color": 16645629,
+        "components": [
+            {"type": 10,
+            "content": "## <:Bedrock:1282401666317946911> Bedrock Editon\nAd ora il nostro server no supporta Minecraft Bedrock Edition. In attesa di nuovi sviluppi a lato tecnico, ci scusiamo ma non è possibile costruire o vistare con questa versione"
+        }
+        ]
+        },
+        {"type": 17,
+        "accent_color": 16645629,
+        "components": [
+            {"type": 10,
+            "content": "## How to apply?\nBTE Italia usa un sistema di Ranks per garantire la qualità delle build, ed aiutare i builder a cresecere nel loro percorso di apprendimento. Per iniziare ti basterà completare un semplice form di applicazione e costruire. Una volta completato potrai far valutare le tue build"
+        },
+        {"type": 1,
+        "components": [
+        {
+          "type": 2,
+          "style": 5,
+          "label": "Applica",
+          "url": "https://discord.com/channels/1398702485429944380/1398712295500025926/1459205482001600690"
+        },
+        {
+          "type": 2,
+          "style": 5,
+          "label": "Ruoli",
+          "url": "https://discord.com/channels/1398702485429944380/1398712295500025926/1459205482001600690"
+        },
+        {
+          "type": 2,
+          "style": 5,
+          "label": "Valutazioni",
+          "url": "https://discord.com/channels/1398702485429944380/1398712295500025926/1459205482001600690"
+        },
+        {
+          "type": 2,
+          "style": 5,
+          "label": "Faq",
+          "url": "https://discord.com/channels/1398702485429944380/1398712295500025926/1459205482001600690"
+        }
+            ]
+        }
+        ]
+        },
+        {"type": 17,
+        "accent_color": 16645629,
+        "components": [
+            {"type": 10,
+            "content": "## <:Tutorial:1458436115186061384> Tutorials\n<:java:1282401625109037059> __In Game__\n\n> I tutorial In gioco sono attualmente non disponibili, nuove informazioni seguiranno a breve\n\n<:discord:1058339132872593480> __Discord__\n\n> Per imparare le basi necessarie a costruire dai un occhio a <#1458133972705083432>"
+            }
+     ]
+    }
+ ]
+}
