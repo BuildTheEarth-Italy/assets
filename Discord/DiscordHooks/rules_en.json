@@ -3,13 +3,13 @@
     "components": [ 
         {
             "type": 17,
-            "accent_color": 16645629,
+            "accent_color": 1580366,
             "components": [
                 {  
                     "type": 12,
                     "items": [
                         {
-                            "media": {"url": "https://media.discordapp.net/attachments/1398712662916989019/1458562956886282441/Rules2.png?ex=6964b55b&is=696363db&hm=f75e27d48e1cd78f81a162ac32aed8369829fd0f8252a3fb405287f348531301&=&format=webp&quality=lossless&width=1513&height=400"}
+                            "media": {"url": "https://raw.githubusercontent.com/BuildTheEarth-Italy/assets/refs/heads/main/Discord/Banners/Rules2.png"}
                         }
                     ]
                 }   

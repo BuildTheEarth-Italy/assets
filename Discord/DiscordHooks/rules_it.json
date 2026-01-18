@@ -1,0 +1,29 @@
+{
+    "flags": 32768,
+    "components": [ 
+        {
+            "type": 17,
+            "accent_color": 1580366,
+            "components": [
+                {  
+                    "type": 12,
+                    "items": [
+                        {
+                            "media": {"url": "https://raw.githubusercontent.com/BuildTheEarth-Italy/assets/refs/heads/main/Discord/Banners/Regole2.png"}
+                        }
+                    ]
+                }   
+            ]
+        },
+        {
+            "type": 17,
+            "accent_color": 16645629,
+            "components": [
+                {
+                    "type": 10,
+                    "content": "1. Rispetto e Inclusività\nOgni forma di pregiudizio, molestia o tossicità in generale è vietata. Tratta tutti con rispetto e gentilezza. Non è consentito accusare altri di infrangere le regole nelle chat pubbliche: segnala eventuali problemi allo staff in privato.\n\n2. Standard di contenuto e comportamento\nContenuti NSFW, comportamenti criminali o discussioni su attività illegali sono severamente vietati. Ciò include immagini del profilo, nomi utente e qualsiasi contenuto multimediale condiviso.\n\n3. Scopo del canale e del server\nUtilizzare i canali solo per lo scopo previsto. Non sono consentite pubblicità indesiderata, spam o discussioni fuori tema.\n\n4. Conformità alle regole della piattaforma\nRispettare sempre i Termini di servizio, i Termini di servizio per gli sviluppatori e le Linee guida della community di Discord. È vietato sfruttare eventuali scappatoie o aggirare le regole.\n\n5. Argomenti vietati\nLa politica e altri argomenti pesanti o controversi non sono ammessi. Le discussioni devono concentrarsi su Minecraft e sulle attività relative al server."
+                }
+            ]
+        }
+    ]
+}
