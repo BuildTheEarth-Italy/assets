@@ -1,0 +1,78 @@
+{   "flags": 32768,
+    "components": [
+        {
+          "type": 17,
+            "accent_color": 1580366,
+            "components": [
+                {  
+                    "type": 12,
+                    "items": [
+                        {
+                            "media": {"url": "https://raw.githubusercontent.com/BuildTheEarth-Italy/assets/refs/heads/main/Discord/Banners/Welcome2.png"}
+                        }
+                    ]
+                }   
+            ]
+        },
+        {"type": 17,
+        "accent_color": 16645629,
+        "components": [
+            {"type": 10,
+            "content": "## <:java:1282401625109037059> Java Edition \n**IP:** `mc.bteitalia.it`\n**Version:** `1.21.10`\n\nJoin Our server with Minecraft Java Edition! Follow the Instruction down below to become a **Builder** and contribute to the Project."
+        }
+        ]
+        },
+        {"type": 17,
+        "accent_color": 16645629,
+        "components": [
+            {"type": 10,
+            "content": "## <:Bedrock:1282401666317946911> Bedrock Editon\nAs of now Our server do Not support Minecraft Bedrock Edition. While waiting for new technical developments, we apologize but it is not possible to build or visit with this version, but you can still contribute to the project by join either [Asean](https://discord.gg/Q5VeMq9), [Brazil](https://discord.com/invite/w6GC56W445), [New York City](https://discord.gg/nMJMMBR) or [Taiwan](https://discord.gg/Ueqj8yr)"
+        }
+        ]
+        },
+        {"type": 17,
+        "accent_color": 16645629,
+        "components": [
+            {"type": 10,
+            "content": "## How can I help?\nBTE Italia uses a system of Ranks to guarantee building quality, and to help builders learn new techniques. To get started, you will just have to complete an application and build a Trial Build. Once you will have finished one build, you will be able to submit it for review by the staff"
+        },
+        {"type": 1,
+        "components": [
+        {
+          "type": 2,
+          "style": 5,
+          "label": "Apply",
+          "url": "https://discord.com/channels/686910132017430538/1462222049476083923/1465050830695567516"
+        },
+        {
+          "type": 2,
+          "style": 5,
+          "label": "Roles",
+          "url": "https://discord.com/channels/686910132017430538/704304441939066910/1383863219247911084"
+        },
+        {
+          "type": 2,
+          "style": 5,
+          "label": "Reviews",
+          "url": "https://discord.com/channels/686910132017430538/704304928176209940"
+        },
+        {
+          "type": 2,
+          "style": 5,
+          "label": "Faq",
+          "url": "https://discord.com/channels/686910132017430538/704304441939066910/1322364675010072628"
+        }
+            ]
+        }
+        ]
+        },
+        {"type": 17,
+        "accent_color": 16645629,
+        "components": [
+            {"type": 10,
+            "content": "## <:Tutorial:1458436115186061384> Tutorials\n<:java:1282401625109037059> __In Game__\n\n> In game Tutorials are currently unavailable, new information will be released soon\n\n<:discord:1058339132872593480> __Discord__\n\n> To learn the fundamentals required to build, please take a look at <#729641079753801769>"
+            }
+     ]
+    }
+ ]
+}
