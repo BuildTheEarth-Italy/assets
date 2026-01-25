@@ -8,7 +8,7 @@
                     "type": 12,
                     "items": [
                         {
-                            "media": {"url": "https://raw.githubusercontent.com/BuildTheEarth-Italy/assets/refs/heads/main/Discord/Banners/Benvenuto.png"}
+                            "media": {"url": "https://raw.githubusercontent.com/BuildTheEarth-Italy/assets/refs/heads/main/Discord/Banners/Welcome2.png"}
                         }
                     ]
                 }   
@@ -34,7 +34,7 @@
         "accent_color": 16645629,
         "components": [
             {"type": 10,
-            "content": "## Come Posso Partecipare?\nBTE Italia usa un sistema di Ranks per garantire la qualità delle build, ed aiutare i builder a cresecere nel loro percorso di apprendimento. Per iniziare ti basterà completare un semplice form di applicazione e costruire una build di Prova. Una volta che avrai completato una build, potrai farla valutare dallo staff"
+            "content": "## Come Posso Partecipare?\nBTE Italia usa un sistema di Ranks per garantire la qualità delle build, ed aiutare i builder a cresecere nel loro percorso di apprendimento. Per iniziare ti basterà completare un semplice form di applicazione e costruire. Una volta completato potrai far valutare le tue build"
         },
         {"type": 1,
         "components": [
@@ -48,19 +48,19 @@
           "type": 2,
           "style": 5,
           "label": "Ruoli",
-          "url": "https://discord.com/channels/686910132017430538/704304441939066910/1383863155813388300"
+          "url": "https://discord.com/channels/1398702485429944380/1398712295500025926/1459205482001600690"
         },
         {
           "type": 2,
           "style": 5,
           "label": "Valutazioni",
-          "url": "https://discord.com/channels/686910132017430538/704304928176209940"
+          "url": "https://discord.com/channels/1398702485429944380/1398712295500025926/1459205482001600690"
         },
         {
           "type": 2,
           "style": 5,
           "label": "Faq",
-          "url": "https://discord.com/channels/686910132017430538/704304441939066910/1322362665552707687"
+          "url": "https://discord.com/channels/1398702485429944380/1398712295500025926/1459205482001600690"
         }
             ]
         }
@@ -70,7 +70,7 @@
         "accent_color": 16645629,
         "components": [
             {"type": 10,
-            "content": "## <:Tutorial:1458436115186061384> Tutorials\n<:java:1282401625109037059> __In Game__\n\n> I tutorial In gioco sono attualmente non disponibili, nuove informazioni seguiranno a breve\n\n<:discord:1058339132872593480> __Discord__\n\n> Per imparare le basi necessarie a costruire dai un occhio a <#729641079753801769>"
+            "content": "## <:Tutorial:1458436115186061384> Tutorials\n<:java:1282401625109037059> __In Game__\n\n> I tutorial In gioco sono attualmente non disponibili, nuove informazioni seguiranno a breve\n\n<:discord:1058339132872593480> __Discord__\n\n> Per imparare le basi necessarie a costruire dai un occhio a <#1462226611104645292>"
             }
      ]
     }
