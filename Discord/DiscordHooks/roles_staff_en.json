@@ -1,0 +1,153 @@
+{
+    "flags": 32768,
+    "components": [
+        {
+            "type": 17,
+            "accent_color": 1580366,
+            "components": [
+                {
+                    "type": 12,
+                    "items": [
+                        {
+                            "media": {"url": "https://raw.githubusercontent.com/BuildTheEarth-Italy/assets/refs/heads/main/Discord/Banners/Ruoli.png"}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": 17,
+            "accent_color": 44529,
+            "components": [
+                {
+                    "type": 10,
+                    "content": "# <:dot:1121528899621376131> Staff Positions\n\n"
+                },
+                {
+                    "type": 14,
+                    "spacing": 2
+                },
+                {
+                    "type": 12,
+                    "items": [
+                        {
+                            "media": {"url": "https://cdn.discordapp.com/attachments/1460410529624363099/1460416945299128551/Admin.png?ex=6993a9c4&is=69925844&hm=ac459ec72483dfc460e99ae89d7496cf2b4ece997c5ea68c6687b7b5a7ca240f"}
+                        }
+                    ]
+                },
+                {
+                    "type": 10,
+                    "content": "Oversees the overall direction and development of BTE Italy.\nResponsible for strategic decisions, team coordination, conflict resolution, and ensuring the project progresses efficiently under all aspects (creative, technical, and community-related)."
+                },
+                {
+                    "type": 14,
+                    "spacing": 2
+                },
+                {
+                    "type": 12,
+                    "items": [
+                        {
+                            "media": {"url": "https://cdn.discordapp.com/attachments/1460410529624363099/1460437876318797897/moderateur.png?ex=6993bd43&is=69926bc3&hm=5b74abe784805015db40936e663a0633e2d1f6d7efbaef322980c392178699e4"}
+                        }
+                    ]
+                },
+                {
+                    "type": 10,
+                    "content": "## Moderatore\n\n Maintains a safe, respectful, and organized Discord environment.\nEnforces server rules, assists members, manages reports, and ensures productive communication within the community."
+                },
+                {
+                    "type": 1,
+                    "components": [
+                        {
+                            "type": 2,
+                            "style": 5,
+                            "label": "Apply for the position",
+                            "url": "https://www.youtube.com/watch?v=-LRYfH3yy6Q"
+                        }
+                    ]
+                },
+                {
+                    "type": 14,
+                    "spacing": 2
+                },
+                {
+                    "type": 12,
+                    "items": [
+                        {
+                            "media": {"url": "https://cdn.discordapp.com/attachments/1460410529624363099/1460416945299128551/Admin.png?ex=6993a9c4&is=69925844&hm=ac459ec72483dfc460e99ae89d7496cf2b4ece997c5ea68c6687b7b5a7ca240f"}
+                        }
+                    ]
+                },
+                {
+                    "type": 10,
+                    "content": "## Tecnico\n\nManages the technical infrastructure of the project.\nResponsible for the development, maintenance, and optimization of:\n- The Minecraft server\n- Website\n- Discord integrations and bots\n- Plugins, tools, and related architecture\nEnsures stability, performance, and security across all platforms."
+                },
+                {
+                    "type": 1,
+                    "components": [
+                        {
+                            "type": 2,
+                            "style": 5,
+                            "label": "Apply for the position",
+                            "url": "https://www.youtube.com/watch?v=-LRYfH3yy6Q"
+                        }
+                    ]
+                },
+                {
+                    "type": 14,
+                    "spacing": 2
+                },
+                {
+                    "type": 12,
+                    "items": [
+                        {
+                            "media": {"url": "https://cdn.discordapp.com/attachments/1460410529624363099/1460416945299128551/Admin.png?ex=6993a9c4&is=69925844&hm=ac459ec72483dfc460e99ae89d7496cf2b4ece997c5ea68c6687b7b5a7ca240f"}
+                        }
+                    ]
+                },
+                {
+                    "type": 10,
+                    "content": "## Valutatore\n\n Reviews and evaluates builders’ work.\nProvides constructive feedback, approves completed builds, and determines eligibility for progression to higher building stages or ranks."
+                },
+                {
+                    "type": 1,
+                    "components": [
+                        {
+                            "type": 2,
+                            "style": 5,
+                            "label": "Apply for the position",
+                            "url": "https://www.youtube.com/watch?v=-LRYfH3yy6Q"
+                        }
+                    ]
+                },
+                {
+                    "type": 14,
+                    "spacing": 2
+                },
+                {
+                    "type": 12,
+                    "items": [
+                        {
+                            "media": {"url": "https://cdn.discordapp.com/attachments/1460410529624363099/1460416945299128551/Admin.png?ex=6993a9c4&is=69925844&hm=ac459ec72483dfc460e99ae89d7496cf2b4ece997c5ea68c6687b7b5a7ca240f"}
+                        }
+                    ]
+                },
+                {
+                    "type": 10,
+                    "content": "## Social\n\nHandles the public image and external communication of BTE Italy.\nManages social media, announcements, promotional content, community engagement, and partnerships to help grow the project and attract new members."
+                },
+                {
+                    "type": 1,
+                    "components": [
+                        {
+                            "type": 2,
+                            "style": 5,
+                            "label": "Apply for the position",
+                            "url": "https://www.youtube.com/watch?v=-LRYfH3yy6Q"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

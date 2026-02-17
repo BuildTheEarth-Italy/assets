@@ -56,69 +56,64 @@
                     "content": "## Moderatore\n\n Maintains a safe, respectful, and organized Discord environment.\nEnforces server rules, assists members, manages reports, and ensures productive communication within the community."
                 },
                 {
-                    "type": 1,
-                    "components": [
-                        {
-                            "type": 2,
-                            "style": 5,
-                            "label": "Apply for the position",
-                            "url": "https://www.youtube.com/watch?v=-LRYfH3yy6Q"
-                        }
-                    ]
-                },
-                {
                     "type": 14,
                     "spacing": 2
+                },
+                {
+                    "type": 12,
+                    "items": [
+                        {
+                            "media": {"url": "https://cdn.discordapp.com/attachments/1460410529624363099/1460416945299128551/Admin.png?ex=6993a9c4&is=69925844&hm=ac459ec72483dfc460e99ae89d7496cf2b4ece997c5ea68c6687b7b5a7ca240f"}
+                        }
+                    ]
                 },
                 {
                     "type": 10,
                     "content": "## Tecnico\n\nManages the technical infrastructure of the project.\nResponsible for the development, maintenance, and optimization of:\n- The Minecraft server\n- Website\n- Discord integrations and bots\n- Plugins, tools, and related architecture\nEnsures stability, performance, and security across all platforms."
                 },
                 {
-                    "type": 1,
-                    "components": [
-                        {
-                            "type": 2,
-                            "style": 5,
-                            "label": "Apply for the position",
-                            "url": "https://www.youtube.com/watch?v=-LRYfH3yy6Q"
-                        }
-                    ]
-                },
-                {
                     "type": 14,
                     "spacing": 2
+                },
+                {
+                    "type": 12,
+                    "items": [
+                        {
+                            "media": {"url": "https://cdn.discordapp.com/attachments/1460410529624363099/1460416945299128551/Admin.png?ex=6993a9c4&is=69925844&hm=ac459ec72483dfc460e99ae89d7496cf2b4ece997c5ea68c6687b7b5a7ca240f"}
+                        }
+                    ]
                 },
                 {
                     "type": 10,
                     "content": "## Valutatore\n\n Reviews and evaluates builders’ work.\nProvides constructive feedback, approves completed builds, and determines eligibility for progression to higher building stages or ranks."
                 },
                 {
-                    "type": 1,
-                    "components": [
-                        {
-                            "type": 2,
-                            "style": 5,
-                            "label": "Apply for the position",
-                            "url": "https://www.youtube.com/watch?v=-LRYfH3yy6Q"
-                        }
-                    ]
-                },
-                {
                     "type": 14,
                     "spacing": 2
+                },
+                {
+                    "type": 12,
+                    "items": [
+                        {
+                            "media": {"url": "https://cdn.discordapp.com/attachments/1460410529624363099/1460416945299128551/Admin.png?ex=6993a9c4&is=69925844&hm=ac459ec72483dfc460e99ae89d7496cf2b4ece997c5ea68c6687b7b5a7ca240f"}
+                        }
+                    ]
                 },
                 {
                     "type": 10,
                     "content": "## Social\n\nHandles the public image and external communication of BTE Italy.\nManages social media, announcements, promotional content, community engagement, and partnerships to help grow the project and attract new members."
                 },
                 {
+                    "type": 14,
+                    "spacing": 2
+                },
+                {
                     "type": 1,
                     "components": [
                         {
                             "type": 2,
                             "style": 5,
-                            "label": "Apply for the position",
+                            "label": "Apply for one position",
                             "url": "https://www.youtube.com/watch?v=-LRYfH3yy6Q"
                         }
                     ]
@@ -138,29 +133,74 @@
                     "spacing": 2
                 },
                 {
+                    "type": 12,
+                    "items": [
+                        {
+                            "media": {"url": "https://cdn.discordapp.com/attachments/1460410529624363099/1460416945299128551/Admin.png?ex=6993a9c4&is=69925844&hm=ac459ec72483dfc460e99ae89d7496cf2b4ece997c5ea68c6687b7b5a7ca240f"}
+                        }
+                    ]
+                },
+                {
                     "type": 10,
                     "content": "## Gran Maestro\n\nA senior architectural role responsible for coordinating specific large-scale areas or complex projects.\nAssigned only when staff determine that dedicated coordination is required.\nOversees planning, ensures stylistic consistency, and supports Architects working within the designated project or region."
+                },
+                {
+                    "type": 14,
+                    "spacing": 2
+                },
+                {
+                    "type": 12,
+                    "items": [
+                        {
+                            "media": {"url": "https://cdn.discordapp.com/attachments/1460410529624363099/1460416945299128551/Admin.png?ex=6993a9c4&is=69925844&hm=ac459ec72483dfc460e99ae89d7496cf2b4ece997c5ea68c6687b7b5a7ca240f"}
+                        }
+                    ]
                 },
                 {
                     "type": 10,
                     "content": "## Architetto\n\nExperienced and trusted builders with advanced permissions.\n- Can build across the map (including high-responsibility areas, when assigned)\n- Access to additional commands and project tools\n- May assist with guidance and quality control\nGranted by staff based on skill, reliability, and contribution to the project."
                 },
                 {
+                    "type": 14,
+                    "spacing": 2
+                },
+                {
+                    "type": 12,
+                    "items": [
+                        {
+                            "media": {"url": "https://cdn.discordapp.com/attachments/1460410529624363099/1460416945299128551/Admin.png?ex=6993a9c4&is=69925844&hm=ac459ec72483dfc460e99ae89d7496cf2b4ece997c5ea68c6687b7b5a7ca240f"}
+                        }
+                    ]
+                },
+                {
                     "type": 10,
                     "content": "## Artigiano\n\nStandard builder rank.\n- Can build freely in non-protected areas\n- Expected to follow project guidelines and regional standards\nRepresents full membership in the building team."
+                },
+                {
+                    "type": 14,
+                    "spacing": 2
+                },
+                {
+                    "type": 12,
+                    "items": [
+                        {
+                            "media": {"url": "https://cdn.discordapp.com/attachments/1460410529624363099/1460416945299128551/Admin.png?ex=6993a9c4&is=69925844&hm=ac459ec72483dfc460e99ae89d7496cf2b4ece997c5ea68c6687b7b5a7ca240f"}
+                        }
+                    ]
                 },
                 {
                     "type": 10,
                     "content": "## Apprendista\n\nEntry-level builder rank obtained through application.\nThis is a learning and training stage where members:\n- Study BTE standards and building techniques\n- Complete a supervised trial build\n- Receive feedback from a Valutatore\nPromotion to Artigiano is granted after successful evaluation of their trial project."
                 },
                 {
-                    "type": 1,
-                    "components": [
+                    "type": 14,
+                    "spacing": 2
+                },
+                {
+                    "type": 12,
+                    "items": [
                         {
-                            "type": 2,
-                            "style": 5,
-                            "label": "Apply as a builder",
-                            "url": "https://www.youtube.com/watch?v=-LRYfH3yy6Q"
+                            "media": {"url": "https://cdn.discordapp.com/attachments/1460410529624363099/1460416945299128551/Admin.png?ex=6993a9c4&is=6992lol5844&hm=ac459ec72483dfc460e99ae89d7496cf2b4ece997c5ea68c6687b7b5a7ca240f"}
                         }
                     ]
                 },
