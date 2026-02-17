@@ -17,13 +17,13 @@
                     "type": 12,
                     "items": [
                         {
-                            "media": {"url": "https://cdn.discordapp.com/attachments/1460410529624363099/1460416945299128551/Admin.png?ex=6993a9c4&is=69925844&hm=ac459ec72483dfc460e99ae89d7496cf2b4ece997c5ea68c6687b7b5a7ca240f"}
+                            "media": {"url": "https://raw.githubusercontent.com/BuildTheEarth-Italy/assets/refs/heads/main/Discord/Roles/GranMaestro.png"}
                         }
                     ]
                 },
                 {
                     "type": 10,
-                    "content": "## Gran Maestro\n\nA senior architectural role responsible for coordinating specific large-scale areas or complex projects.\nAssigned only when staff determine that dedicated coordination is required.\nOversees planning, ensures stylistic consistency, and supports Architects working within the designated project or region."
+                    "content": "A senior architectural role responsible for coordinating specific large-scale areas or complex projects.\nAssigned only when staff determine that dedicated coordination is required.\nOversees planning, ensures stylistic consistency, and supports Architects working within the designated project or region."
                 },
                 {
                     "type": 14,
@@ -33,13 +33,13 @@
                     "type": 12,
                     "items": [
                         {
-                            "media": {"url": "https://cdn.discordapp.com/attachments/1460410529624363099/1460416945299128551/Admin.png?ex=6993a9c4&is=69925844&hm=ac459ec72483dfc460e99ae89d7496cf2b4ece997c5ea68c6687b7b5a7ca240f"}
+                            "media": {"url": "https://raw.githubusercontent.com/BuildTheEarth-Italy/assets/refs/heads/main/Discord/Roles/Architetto.png"}
                         }
                     ]
                 },
                 {
                     "type": 10,
-                    "content": "## Architetto\n\nExperienced and trusted builders with advanced permissions.\n- Can build across the map (including high-responsibility areas, when assigned)\n- Access to additional commands and project tools\n- May assist with guidance and quality control\nGranted by staff based on skill, reliability, and contribution to the project."
+                    "content": "Experienced and trusted builders with advanced permissions.\n- Can build across the map (including high-responsibility areas, when assigned)\n- Access to additional commands and project tools\n- May assist with guidance and quality control\nGranted by staff based on skill, reliability, and contribution to the project."
                 },
                 {
                     "type": 14,
@@ -49,13 +49,13 @@
                     "type": 12,
                     "items": [
                         {
-                            "media": {"url": "https://cdn.discordapp.com/attachments/1460410529624363099/1460416945299128551/Admin.png?ex=6993a9c4&is=69925844&hm=ac459ec72483dfc460e99ae89d7496cf2b4ece997c5ea68c6687b7b5a7ca240f"}
+                            "media": {"url": "https://raw.githubusercontent.com/BuildTheEarth-Italy/assets/refs/heads/main/Discord/Roles/Artigiano.png"}
                         }
                     ]
                 },
                 {
                     "type": 10,
-                    "content": "## Artigiano\n\nStandard builder rank.\n- Can build freely in non-protected areas\n- Expected to follow project guidelines and regional standards\nRepresents full membership in the building team."
+                    "content": "Standard builder rank.\n- Can build freely in non-protected areas\n- Expected to follow project guidelines and regional standards\nRepresents full membership in the building team."
                 },
                 {
                     "type": 14,
@@ -65,13 +65,13 @@
                     "type": 12,
                     "items": [
                         {
-                            "media": {"url": "https://cdn.discordapp.com/attachments/1460410529624363099/1460416945299128551/Admin.png?ex=6993a9c4&is=69925844&hm=ac459ec72483dfc460e99ae89d7496cf2b4ece997c5ea68c6687b7b5a7ca240f"}
+                            "media": {"url": "https://raw.githubusercontent.com/BuildTheEarth-Italy/assets/refs/heads/main/Discord/Roles/Apprendista.png"}
                         }
                     ]
                 },
                 {
                     "type": 10,
-                    "content": "## Apprendista\n\nEntry-level builder rank obtained through application.\nThis is a learning and training stage where members:\n- Study BTE standards and building techniques\n- Complete a supervised trial build\n- Receive feedback from a Valutatore\nPromotion to Artigiano is granted after successful evaluation of their trial project."
+                    "content": "Entry-level builder rank obtained through application.\nThis is a learning and training stage where members:\n- Study BTE standards and building techniques\n- Complete a supervised trial build\n- Receive feedback from a Valutatore\nPromotion to Artigiano is granted after successful evaluation of their trial project."
                 },
                 {
                     "type": 1,
@@ -92,13 +92,13 @@
                     "type": 12,
                     "items": [
                         {
-                            "media": {"url": "https://cdn.discordapp.com/attachments/1460410529624363099/1460416945299128551/Admin.png?ex=6993a9c4&is=6992lol5844&hm=ac459ec72483dfc460e99ae89d7496cf2b4ece997c5ea68c6687b7b5a7ca240f"}
+                            "media": {"url": "https://raw.githubusercontent.com/BuildTheEarth-Italy/assets/refs/heads/main/Discord/Roles/Visitatore.png"}
                         }
                     ]
                 },
                 {
                     "type": 10,
-                    "content": "## Visitor \n\nA guest rank that grants full access to explore the server, but no building permissions.\nDesigned for tourists and newcomers who wish to experience and discover the world created by the community."
+                    "content": "A guest rank that grants full access to explore the server, but no building permissions.\nDesigned for tourists and newcomers who wish to experience and discover the world created by the community."
                 }
             ]
         }
