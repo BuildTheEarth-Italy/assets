@@ -47,20 +47,14 @@
         {
           "type": 2,
           "style": 5,
-          "label": "Roles",
-          "url": "https://discord.com/channels/686910132017430538/704304441939066910/1383863219247911084"
+          "label": "Ranks",
+          "url": "https://discord.com/channels/686910132017430538/1473329288546615296/1474160124841955329"
         },
         {
           "type": 2,
           "style": 5,
           "label": "Reviews",
           "url": "https://discord.com/channels/686910132017430538/704304928176209940"
-        },
-        {
-          "type": 2,
-          "style": 5,
-          "label": "Faq",
-          "url": "https://discord.com/channels/686910132017430538/704304441939066910/1322364675010072628"
         }
             ]
         }

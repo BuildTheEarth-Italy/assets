@@ -7,7 +7,7 @@
             "components": [
                 {
                     "type": 10,
-                    "content": "# <:green_dot:1473389051565310246> Community Positions\n\n"
+                    "content": "# <:green_dot:1473389051565310246> Ruoli della Community\n\n"
                 },
                 {
                     "type": 14,
@@ -23,7 +23,7 @@
                 },
                 {
                     "type": 10,
-                    "content": "A senior architectural role responsible for coordinating specific large-scale areas or complex projects.\nAssigned only when staff determine that dedicated coordination is required.\nOversees planning, ensures stylistic consistency, and supports Architects working within the designated project or region."
+                    "content": "Un ruolo architettonico senior responsabile del coordinamento di aree estese o progetti particolarmente complessi.\nViene assegnato solo quando lo staff ritiene necessaria una supervisione dedicata.\nSi occupa della pianificazione, garantisce coerenza stilistica e supporta gli Architetti che lavorano nel progetto o nella regione assegnata."
                 },
                 {
                     "type": 14,
@@ -39,7 +39,7 @@
                 },
                 {
                     "type": 10,
-                    "content": "Experienced and trusted builders with advanced permissions.\n<:green_ring:1473389065389867101> Can build across the map (including high-responsibility areas, when assigned)\n<:green_ring:1473389065389867101> Access to additional commands and project tools\n<:green_ring:1473389065389867101> May assist with guidance and quality control\nGranted by staff based on skill, reliability, and contribution to the project."
+                    "content": "Builder esperti e affidabili con permessi avanzati.\n<:green_ring:1473389065389867101> Possono costruire in tutta la mappa (incluse aree ad alta responsabilità, se assegnate)\n<:green_ring:1473389065389867101> Accesso a comandi aggiuntivi e strumenti di progetto\n<:green_ring:1473389065389867101> Possono offrire supporto, guida e controllo qualità\nIl ruolo viene assegnato dallo staff in base a competenze, affidabilità e contributo al progetto."
                 },
                 {
                     "type": 14,
@@ -55,7 +55,7 @@
                 },
                 {
                     "type": 10,
-                    "content": "Standard builder rank.\n<:green_ring:1473389065389867101> Can build freely in non-protected areas\n<:green_ring:1473389065389867101> Expected to follow project guidelines and regional standards\nRepresents full membership in the building team."
+                    "content": "Ruolo standard per i builder.\n<:green_ring:1473389065389867101> Possono costruire liberamente nelle aree non protette\n<:green_ring:1473389065389867101> Devono seguire le linee guida del progetto e gli standard regionali\nRappresenta la piena appartenenza al team di costruzione."
                 },
                 {
                     "type": 14,
@@ -71,7 +71,7 @@
                 },
                 {
                     "type": 10,
-                    "content": "Entry-level builder rank obtained through application.\nThis is a learning and training stage where members:\n<:green_ring:1473389065389867101> Learn BTE standards and building techniques\n<:green_ring:1473389065389867101> Complete a supervised trial build\n<:green_ring:1473389065389867101> Receive feedback from a Valutatore\nPromotion to Artigiano is granted after successful evaluation of their trial project."
+                    "content": "Ruolo iniziale per i builder, ottenuto tramite candidatura.\nÈ una fase di apprendimento e formazione in cui i membri:\n<:green_ring:1473389065389867101> Imparano gli standard BTE e le tecniche di costruzione\n<:green_ring:1473389065389867101> Realizzano una build di prova supervisionata\n<:green_ring:1473389065389867101> Ricevono feedback da un Valutatore\nLa promozione ad Artigiano avviene dopo la valutazione positiva del progetto di prova."
                 },
                 {
                     "type": 1,
@@ -79,8 +79,8 @@
                         {
                             "type": 2,
                             "style": 5,
-                            "label": "Apply as a builder",
-                            "url": "https://discord.com/channels/686910132017430538/1462222049476083923/1465050830695567516"
+                            "label": "Candidati come builder",
+                            "url": "https://discord.com/channels/686910132017430538/1462221986515255502/1465020421224140985"
                         }
                     ]
                 },
@@ -98,7 +98,7 @@
                 },
                 {
                     "type": 10,
-                    "content": "A guest rank that grants full access to explore the server, but no building permissions.\nDesigned for tourists and newcomers who wish to experience and discover the world created by the community."
+                    "content": "Ruolo ospite che consente l’accesso completo per esplorare il server, ma senza permessi di costruzione.\nPensato per visitatori e nuovi arrivati che vogliono scoprire e vivere il mondo creato dalla community."
                 }
             ]
         }
