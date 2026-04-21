@@ -1,0 +1,38 @@
+{
+    "flags": 32768,
+    "components": [
+        {
+            "type" : 17,
+            "accent_color": 1580366,
+            "components": [
+                {
+                    "type": 12,
+                    "items": [
+                        {
+                            "media": {"url": "https://cdn.discordapp.com/attachments/831219479664132097/1472356680015679736/image.png?ex=69924683&is=6990f503&hm=c673cbb7bbf83487c6f03ed1ee2d7d3c61dd36a6e36b9f78582abfcc54bf67d3"}
+                        }
+                    ]
+
+                }
+            ]
+        },
+        {
+            "type" : 17,
+            "accent_color": 1580366,
+            "components": [
+                {
+                    "type": 10,
+                    "content": "# ⛰️  Evento Alpine - :flag_it:\n\nCari <@&704332197628477450>\nBTE Germany <a:btede:853745991525859338>, BTE Alps <a:alps_logogif:722902196542505059>, BTE Italia <a:bte_italy_animated:998353002790400121>, BTE France <a:btefrance:844495279977791498> e BTE Balkans <a:Balkans:1472231776893272187> hanno unito le forze per ricreare diverse città alpine che sono state elette [Città Alpina dell'Anno](https://it.wikipedia.org/wiki/Citt%C3%A0_alpina_dell%27anno)\n\n📅  **Inizio:** <t:1771617600:f>\n🏁  **Fine:** <t:1772395200:f>\n\n📍 **Dove costuiremo?**\n<a:btede:853745991525859338> - Bad Reichenhall\n<a:alps_logogif:722902196542505059> - Herisau\n<a:bte_italy_animated:998353002790400121> - Bolzano\n<a:btefrance:844495279977791498> - Annecy\n<a:Balkans:1472231776893272187> - Maribor\n\n⭐ **Sistema di punteggio:**\nL'evento consiste in un sistema a punteggio dove ogni edificio sarà valutato in base ai seguenti criteri (sono richiesti due giudici per edificio):\n• 5 punti base per la casa costruita;\n• 1-10 punti per dettagli, estetica e precisione;\n• 1-10 punti per dimensioni e ambiente circostante (dimensioni dell'edificio, giardino ecc.);\n• 1-5 punti per impegno/complessità del singolo edificio.\n\n✨ **Punti bonus per la comunità**\nPoiché ogni squadra costruisce nella propria sede, vogliamo avvicinare le comunità. Per questo motivo abbiamo inserito un fattore bonus di 1,5x per gli edifici costruiti al di fuori dei confini del proprio paese. **(massimo un edificio al giorno)**\n\nAbbiamo anche incluso alcune piccole sorprese per la comunità durante l'evento. Quindi rimanete sintonizzati! 🎉"
+                },
+                {
+                    "type": 14
+                },
+                {
+                    "type": 10,
+                    "content": "# ⛰️  Alpine Event - :flag_gb:\n\nDear <@&704332197628477450>\nBTE Germany <a:btede:853745991525859338>, Alps BTE <a:alps_logogif:722902196542505059>, BTE Italia <a:bte_italy_animated:998353002790400121>, BTE France <a:btefrance:844495279977791498> and BTE Balkans <a:Balkans:1472231776893272187>, have joined forces to recreate various Alpine towns that have been voted [Alpine Town of the Year](https://en.wikipedia.org/wiki/Alpine_Town_of_the_Year)\n\n📅  **Start**: <t:1771617600:f>\n🏁  **End**: <t:1772395200:f>\n\n📍 **Construction sites**\n<a:btede:853745991525859338> - Bad Reichenhall\n<a:alps_logogif:722902196542505059> - Herisau\n<a:bte_italy_animated:998353002790400121> - Bozen\n<a:btefrance:844495279977791498> - Annecy\n<a:Balkans:1472231776893272187> - Maribor\n\n⭐ **Scoring system**:\nThe event consists in a point system where each construction project will be evaluated based on the following criteria (two judges per building required):\n• 5 base points per house built;\n• 1–10 points for details, aesthetics, and accuracy;\n• 1–10 points for size and surroundings (building size, garden, shed, etc.);\n• 1–5 points for effort/complexity of the individual building;\n\n✨ **Bonus points for the community**\nSince each team is building in its own location, we want to bring the communities closer together. That's why we have a 1.5x bonus factor for buildings constructed outside of one's own country's borders. **(max. one building per day)**\n\nWe have also included a few small community surprisings during the event. So stay tuned! 🎉"
+                }
+            ]
+        }
+    ]
+    
+}

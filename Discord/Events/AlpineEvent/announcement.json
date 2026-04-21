@@ -1,0 +1,56 @@
+{
+    "flags": 32768,
+    "components": [
+        {
+            "type": 17, 
+            "accent_color": 1580366,
+            "components": [
+                {
+                    "type": 12,
+                    "items": [
+                        {
+                            "media": {"url": "https://raw.githubusercontent.com/BuildTheEarth-Italy/assets/refs/heads/main/Discord/Banners/test5.png"}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": 17,
+            "accent_color": 1580366,
+            "components": [
+                {
+                    "type": 10,
+                    "content": "# ⛰️  Evento Alpine - Reminder :flag_it:"
+                },
+                {
+                    "type": 10,
+                    "content": "Cari <@&704332197628477450>,\nVi ricordiamo che l'evento Alpine inizierà oggi alle <t:1771614000:t>!\nL'Ip del server **verrà comunicata a breve**, quindi rimanete sintonizzati!\n\n### :round_pushpin: L'evento avrà luogo a Bolzano:\nBolzano è una città dove culture e stili si incontrano, tra influenze alpine e mediterranee.\nIl suo centro storico conserva edifici gotici e medievali, come il Duomo e i Portici, che raccontano secoli di scambi commerciali. Sotto il dominio asburgico la città si arricchì di architetture mitteleuropee, ancora visibili lungo le sue strade eleganti. Dopo l’annessione all’Italia, nuovi quartieri moderni si affiancarono al nucleo antico, creando un contrasto unico.\n\nNel 2009 è stata nominata **Città alpina dell’anno**, riconoscimento per il suo impegno verso sostenibilità e valorizzazione del territorio.\n> Per maggiori infomazioni su dove si terrà l'evento, consultate **la mappa allegata qui sotto**\n\nCome in tutti gli eventi, le costruzioni ultimate dovranno essere **condivise nel canale <#1471237666140983356>** per essere valutate dai giudici! E non dimenticatevi dei :star:**Punti bonus**:star: che si possono ottenere costruendo nelle altre città che partecipano all'evento!\n\nBuona fortuna a tutti i partecipanti! 🍀"
+                },
+                {
+                    "type": 14,
+                    "spacing": 2
+                },
+                {
+                    "type": 10,
+                    "content": "# ⛰️  Alpine Event - Reminder :flag_gb:"
+                },
+                {
+                    "type": 10,
+                    "content": "Dear <@&704332197628477450>,\nWe remind you that the Alpine event will start today at <t:1771614000:t>!\nThe server IP **will be announced shortly**, so stay tuned!\n\n### :round_pushpin: The event will take place in Bolzano:\nBolzano is a city where cultures and styles meet, blending Alpine and Mediterranean influences.\nIts historic center preserves Gothic and medieval buildings, such as the Cathedral and the Porticos, which tell centuries of commercial exchange. Under Habsburg rule, the city was enriched with Central European architecture, still visible along its elegant streets. After its annexation to Italy, new modern districts were added alongside the old town, creating a unique contrast.\n\nIn 2009, it was named **Alpine City of the Year**, a recognition of its commitment to sustainability and the enhancement of its territory.\n> For more information about where the event will take place, please check **the attached map below**\n\nAs in all events, completed builds must be **shared in the channel <#1471237666140983356>** to be evaluated by the judges! And don’t forget about the :star:**Bonus points**:star: that can be earned by building in the other cities participating in the event!\n\nGood luck to all participants! 🍀"
+                },
+                {
+                    "type": 14,
+                    "spacing": 2
+                },
+                {
+                    "type": 12,
+                    "items": [
+                        {
+                            "media": {"url": "https://cdn.discordapp.com/attachments/696398449314103336/1474431535452262421/Bolzano_AlpineEvent.jpg?ex=6999d2df&is=6998815f&hm=61d341da865fd13da6d5248086e9f02e7377bf1815c70e97359e05ff0debc88e"}}
+                    ]
+                }
+            ]
+        }
+    ]
+}

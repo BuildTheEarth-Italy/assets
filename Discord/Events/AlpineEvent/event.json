@@ -1,0 +1,23 @@
+{
+  "flags": 32768,
+    "components": [
+        {
+            "type": 17,
+            "accent_color": 1580366,
+            "components": [
+                {
+                    "type": 10,
+                    "content": "## <:event:991738968725000433> Event Teaser\n \n \n \n:flag_it: Cari <@&704332197628477450>\nUn nuovo evento è in arrivo! 👀 \nMaggiori informazioni seguiranno a breve\n\n:flag_gb: Dear <@&704332197628477450>\nA new event is coming soon! 👀 \nMore information will follow \n\n"
+                },
+                {
+                    "type": 12,
+                    "items": [
+                        {
+                            "media": {"url": "https://media.discordapp.net/attachments/831219479664132097/1471587213702861052/image.png?ex=698f79e4&is=698e2864&hm=ea3927eb6dbac8b7de3abf0eb94488d4f580cb593d4ddf6c24f39fcc3f3b55e7&=&format=webp&quality=lossless&width=640&height=256"}
+                        }
+                    ]
+                }
+            ]
+        }
+      ]
+}
