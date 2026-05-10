@@ -1,4 +1,24 @@
 {
+    "thread_name": "Informazioni di Base",
     "flags": 32768,
-    "components": []
+    "components": [
+        {
+            "type": 17,
+            "accent_color": 1580366,
+            "components": [
+                {
+                    "type": 10,
+                    "content": "# Come Iniziare a Costruire?\n\n"
+                },
+                {
+                    "type": 14,
+                    "spacing":2
+                },
+                {
+                    "type": 10,
+                    "content": "## <:blue_ring:1473389031331991715> Dove mi trovo?\n\n Per capire dove ti trovi usa il comando `\\where` per ottenere un link alla tua posizione in google maps."
+                }
+            ]
+        }
+    ]
 }

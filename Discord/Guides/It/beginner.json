@@ -3,7 +3,14 @@
     "flags": 32768,
     "components": [
         {
-            
+            "type": 17,
+            "accent_color": 1580366,
+            "components": [
+                {
+                    "type": 10,
+                    "content": "Benvenuto su Build The Earth Italia! Questo è il posto perfetto per iniziare la tua avventura con noi. Qui troverai tutte le informazioni necessarie per iniziare a costruire con noi, oltre a risorse utili e guide per aiutarti a muovere i primi passi. Se hai domande, non esitare a chiedere nei canali appropriati o a contattare i membri dello staff."
+                }
+            ]
         }
     ]
 }
