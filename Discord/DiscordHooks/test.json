@@ -1,0 +1,31 @@
+{
+    "flags": 32768,
+    "components": [
+        {
+            "type": 17,
+            "accent_color": 8294418,
+            "components": [
+                {
+                    "type": 12,
+                    "items": [
+                        {
+                            "media": {"url": "https://docs.xenondevs.xyz/invui/assets/img/window/anvil_search.avif", "height": 200, "width": 800}
+                        }
+                    ]
+                },
+                {
+                    "type": 10,
+                    "content": "# <:green_dot:1473389051565310246> Search A Location\n\n To teleport to a specific location, just search it in the search bar and click on the result. You will be teleported to the location you selected.\n\n<:green_ring:1473389065389867101> You can search for a specific coordinate, a city, or a region.\n<:green_ring:1473389065389867101> You can also search for a specific player by typing their username."
+                },
+                {
+                    "type": 12,
+                    "items": [
+                        {
+                            "media": {"url": "https://docs.xenondevs.xyz/invui/assets/img/window/anvil_search.avif", "height": 200, "width": 800}
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
